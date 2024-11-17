@@ -1,0 +1,17 @@
+/* <div>
+<h1 className="font-macan text-3xl font-bold">This is Bold Macan Font</h1>
+<p className="font-macan italic">This is Italic Macan Font</p>
+<p className="font-macan font-light">This is Light Macan Font</p>
+<p className="font-macan font-extrabold">This is Extra Bold Macan Font</p>
+</div> */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body,html{
+  width:100%;
+  height:100%;
+}
+
